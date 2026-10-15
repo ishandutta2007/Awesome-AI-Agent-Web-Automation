@@ -27,9 +27,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
 - [How to Contribute](#how-to-contribute)
@@ -38,66 +37,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global web scraping and automated data extraction software market is estimated at approximately **$1.3B to $1.6B** (projected to reach over $3B+ by 2030, accelerated by demand for real-time web grounding and LLM training pipelines). The sector is **moderately fragmented**—while high-barrier proxy infrastructure and enterprise web unblocking are concentrated around top leaders (like Oxylabs and Bright Data), a vibrant ecosystem of specialized visual scrapers, cloud actor marketplaces, and developer APIs prevents winner-take-all dynamics.
+
 ## SaaS/Hosted Platforms
 
-- **[Apify](https://apify.com/)**  
-
-  Full-stack web scraping and automation platform with Actors, browser farms, and APIs widely used by developers and AI agents for data extraction.
-
-
-
-- **[Bright Data](https://brightdata.com/)**  
-
-  Enterprise web data platform offering proxies, scraping APIs, and browser infrastructure for large-scale collection and agent access.
-
-
-
-- **[Oxylabs](https://oxylabs.io/)**  
-
-  Premium proxy and web scraping infrastructure provider with APIs and tools for reliable data gathering at scale.
-
-
-
-- **[Crawlbase](https://crawlbase.com/)**  
-
-  Web scraping API and crawling platform designed for developers who need clean HTML/JSON from complex sites.
-
-
-
-- **[Zyte](https://www.zyte.com/)**  
-
-  Web scraping platform (formerly Scrapinghub) offering Smart Proxy Manager, automatic extraction, and managed crawling services.
-
-
-
-- **[Scrapinghub / Zyte ecosystem](https://www.zyte.com/)**  
-
-  Legacy and current offerings around Scrapy Cloud and managed scraping infrastructure used by many production crawlers.
-
-
-
-- **[Octoparse](https://www.octoparse.com/)**  
-
-  No-code / low-code web scraping tool popular for turning websites into structured data without heavy programming.
-
-
-
-- **[Import.io](https://www.import.io/)**  
-
-  Web data integration platform focused on converting web content into structured datasets for business use.
-
-
-
-- **[ParseHub](https://www.parsehub.com/)**  
-
-  Visual web scraping tool that lets users build scrapers through a point-and-click interface.
-
-
-
-- **[Browse AI](https://www.browse.ai/)**  
-
-  No-code web automation and monitoring platform that trains robots to extract and monitor website data.
-
+| Platform | Estimated Scale / Valuation | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Oxylabs](https://oxylabs.io/)** | **$3.6B Valuation** (~$350M ARR) | $30/month (Starter residential proxy plan, includes 5 GB) | $5 welcome credit on signup (no credit card required) or 7-day managed trial for verified businesses | Premium proxy and web scraping infrastructure provider with APIs and tools for reliable data gathering at scale. |
+| **[Bright Data](https://brightdata.com/)** | **$1B+ Valuation** (~$300M+ ARR) | $14/month (Datacenter proxy starter) / $499/month (Growth scraping API commitment) | 5,000 free credits/month recurring (for Web Unlocker/SERP/Scraper APIs, ~1 GB browser traffic) + $5 one-time proxy test credit | Enterprise web data platform offering proxies, scraping APIs, and browser infrastructure for large-scale collection and agent access. |
+| **[Zyte](https://www.zyte.com/)** | **~$25M ARR** (Scrapinghub) | $9/month (Scrapy Cloud basic unit) / Pay-As-You-Go API starting at $0.13 per 1,000 HTTP requests | 30-day free trial with $5 free credit upon registration (hard cap, no card required) | Web scraping platform offering Smart Proxy Manager, automatic extraction, Scrapy Cloud, and managed crawling services. |
+| **[Octoparse](https://www.octoparse.com/)** | **~$15M - $20M Revenue** | $89/month ($69/month billed annually for Standard Plan with 100 tasks & cloud extraction) | Free Forever Plan: 10 local tasks, up to 10,000 records per export, 50,000 records/month (local execution only) | No-code / low-code web scraping tool popular for turning websites into structured data without heavy programming. |
+| **[Apify](https://apify.com/)** | **~$13M - $15M ARR** (€2.8M Series A) | $49/month (Starter plan with $49 prepaid usage, 32 GB RAM, 30-day retention) | Free Forever Plan: $5/month prepaid platform credits, 16 GB max RAM, 5 datacenter proxies, no credit card required | Full-stack web scraping and automation platform with Actors, browser farms, and APIs widely used by developers and AI agents. |
+| **[Import.io](https://www.import.io/)** | **~$50M - $100M Valuation** ($38M funded; Acquired) | $199/month (Standard plan billed annually for 50,000 queries/month) | 30-day free trial with 5,000 successful queries included (no credit card required, hard cap) | Web data integration platform focused on converting web content into structured datasets for enterprise use. |
+| **[ParseHub](https://www.parsehub.com/)** | **~$5M - $10M Revenue** | $189/month (Standard plan with 10,000 pages per run & 20 private projects) | Free Forever Plan: 5 public projects, 200 pages scraped per run, 14-day data retention | Visual web scraping tool that lets users build scrapers through a point-and-click desktop interface. |
+| **[Browse AI](https://www.browse.ai/)** | **~$2.8M Funded** (~$2M - $4.5M ARR) | $48/month ($19/month billed annually for Personal Plan with 2,000 credits/month) | Free Forever Plan: 50 credits/month, 2 websites monitored, up to 500 rows/month extracted | No-code web automation and monitoring platform that trains robots to extract and monitor website data. |
+| **[Crawlbase](https://crawlbase.com/)** | **Bootstrapped / Seed** (~$2M - $5M ARR) | $99/month (Starter subscription block with 200,000 requests) or Pay-As-You-Go ($0/mo commitment) | Free Trial: 5,000 free successful API requests upon registration and onboarding (no credit card required) | Web scraping API and crawling platform designed for developers who need clean HTML/JSON from complex sites. |
 
 
 ## Open-Source GitHub Projects
